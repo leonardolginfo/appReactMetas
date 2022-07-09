@@ -1,8 +1,9 @@
 # appReactMetas
 
 ## App para "controle" de metas.
-## Envio de sms para contatos
-## Spring e React
-## Desenvolvido durante a Semana Spring React  - 11 a 17 de julho.
+### Envio de sms para contatos
+### Spring e React
+### Desenvolvido durante a Semana Spring React  - 11 a 17 de julho.
+### Primeiros comits feitos nas aulas anteriores ao evento
 
 
